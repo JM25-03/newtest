@@ -19,6 +19,7 @@ int main(){
     // Calling and executing the loop functions
 
     // Calling and executing the memory access functions
+    printf("test");
 
     return 0;
 }
